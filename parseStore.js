@@ -8,6 +8,7 @@ const lines = String(data)
 .map((line,i)=>i<5
   ?({lineNumber:line.lineNumber,text:line.text.split(':')[1]})
   :line)
+.map(l=>l.text.includes('/')?({lineNumber:l.lineNumber,text:l.text.split('/')[l.split('/').length-1]}):l)
 
 const [name,banner,logo,favicon,currency,email,...productList] = lines
 
