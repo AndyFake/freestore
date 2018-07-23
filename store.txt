@@ -1,6 +1,6 @@
 STORE NAME:Crosss
-BANNER:image1.png
-LOGO:image2.png
+BANNER:https://github.com/AndyFake/freestore/blob/master/public/images/247E1384-DC04-4E88-AF0F-2E466CB8DCB2.jpeg
+LOGO:https://github.com/AndyFake/freestore/blob/master/public/images/29BBF8A0-EC05-4861-81AA-68559FEB1D5D.jpeg
 FAVICON:image8.png
 CURRENCY:CAD
 EMAIL:youthclubrecords@gmail.com
@@ -8,12 +8,12 @@ EMAIL:youthclubrecords@gmail.com
 Bones Brigade
 6
 Our first release from 2011. 5 Songs, of which 4 eventually made it to our first LP.
-image3.png
+https://github.com/AndyFake/freestore/blob/master/public/images/4CD23124-A82D-4497-AF0B-7E73C337F855.jpeg
 
 Obsidian Spectre
 12
 Our first LP, released on Telephone Explosion in 2012, comes with DL code printed on the center label.
-image4.png
+https://github.com/AndyFake/freestore/blob/master/public/images/593DF690-098F-4366-851C-0493F18C214C.jpeg
 
 LO
 12
