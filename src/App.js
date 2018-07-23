@@ -3,7 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 import {data} from './store.js'
 
-const imageList = data.split('\n').map(line=>{
+const imageList = data.split('\n')
+.filter(x=>x!='')
+.map(line=>{
   const directories = line.split('/')
   return directories[directories.length-1]
 })
