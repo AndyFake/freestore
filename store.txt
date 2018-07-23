@@ -1,2 +1,31 @@
-www.github.com/yada/foo/bar/image1.png
-https://github.com/marchingband/freestore/blob/master/public/images/image.jpg
+STORE NAME:Crosss
+BANNER:image1.png
+LOGO:image2.png
+FAVICON:image8.png
+CURRENCY:CAD
+EMAIL:youthclubrecords@gmail.com
+
+Bones Brigade
+6
+Our first release from 2011. 5 Songs, of which 4 eventually made it to our first LP.
+image3.png
+
+Obsidian Spectre
+12
+Our first LP, released on Telephone Explosion in 2012, comes with DL code printed on the center label.
+image4.png
+
+LO
+12
+Our 2nd LP, released by Telephone Explosion, comes with a DL code on a peice of paper in the sleeve.
+image5.png
+
+Spectre
+6
+A 7inch split with another band, released on Pleasance Records. Just has the song Spectre.
+image6.png
+
+LO/Obsidian Spectre
+20
+A re-release of both LP's in a 2xLP gatefold, on delux splatter vinyl, released by Joyfull Noise in 2016.
+image7.png
