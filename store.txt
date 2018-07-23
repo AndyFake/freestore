@@ -1,5 +1,5 @@
 STORE NAME:Crosss
-BANNER:https://github.com/AndyFake/freestore/blob/master/public/images/247E1384-DC04-4E88-AF0F-2E466CB8DCB2.jpeg
+BANNER:247E1384-DC04-4E88-AF0F-2E466CB8DCB2.jpeg
 LOGO:https://github.com/AndyFake/freestore/blob/master/public/images/29BBF8A0-EC05-4861-81AA-68559FEB1D5D.jpeg
 FAVICON:image8.png
 CURRENCY:CAD
