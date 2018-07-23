@@ -4,6 +4,7 @@ const data = fs.readFileSync('./store.txt')
 const lines = String(data)
 .split('\n')
 .filter(Boolean)
+.map(l=>l.includes('/')?l.split('/')[l.split('/').length-1]:l)
 .map((line,i)=>({lineNumber:i+1,text:line}))
 .map((line,i)=>i<5
   ?({lineNumber:line.lineNumber,text:line.text.split(':')[1]})
