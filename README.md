@@ -1,3 +1,6 @@
+Testing the possibility of forking a repository to duplicate an entire template for a Netlify site,
+including build/deploy tools and DSL parser, all on mobile. Seems to work well :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
